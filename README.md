@@ -19,7 +19,8 @@ Group No.: `546574618`
 
 ```bash
 # 1、Clone the repository
-
+# Please into /www/wwwroot/ to install
+cd /www/wwwroot/
 # Clone projects on github
 git clone --depth=1 https://github.com/kuaifan/dootask.git
 # Or you can use gitee
