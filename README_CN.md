@@ -19,7 +19,8 @@
 
 ```bash
 # 1、克隆项目到您的本地或服务器
-
+# 必须在/www/wwwroot/目录下执行
+cd /www/wwwroot/
 # 通过github克隆项目
 git clone --depth=1 https://github.com/kuaifan/dootask.git
 # 或者你也可以使用gitee
